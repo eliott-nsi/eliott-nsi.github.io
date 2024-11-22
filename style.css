@@ -1,4 +1,6 @@
 th{
-  border:1px solid red;
+  border:1px;
+  border-style: solid;
+  border-color:red;
   margin:0;
 }
